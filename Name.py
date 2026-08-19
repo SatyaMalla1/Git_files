@@ -2,7 +2,7 @@ print("python")
 print("")
 
 name = "Satya1"
-age = 29
+age = 25
 
 print(name)
 print(age)
